@@ -2,7 +2,7 @@
 The Battle of Neighborhoods (Washington State)
 
 #### Introduction/Business problem
-Washington State, where I lives in. For tourists, finding the right place to eat can be a challenge. This is just one motive for giving tourists a good overview about what to eat where.
+Washington State, where I live in. For tourists, finding the right place to eat can be a challenge. This is just one motive for giving tourists a good overview about what to eat where.
 
 Thus, the goal I want to reach with this exercise is to give a simple recommendation to tourists in WA: in which district of the city will you find a large number or even concentration of which types of restaurants? Where to eat sea food, where to find Mexico food, where to get fast food? The target audience are foreign tourists.
 
