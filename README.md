@@ -1,4 +1,4 @@
-# week1
+# week2
 The Battle of Neighborhoods (Washington State)
 
 #### Introduction/Business problem
