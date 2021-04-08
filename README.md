@@ -4,7 +4,7 @@ The Battle of Neighborhoods (Washington State)
 #### Introduction/Business problem
 Washington State, where I live in. For tourists, finding the right place to eat can be a challenge. This is just one motive for giving tourists a good overview about what to eat where.
 
-Thus, the goal I want to reach with this exercise is to give a simple recommendation to tourists in WA: in which district of the city will you find a large number or even concentration of which types of restaurants? Where to eat sea food, where to find Mexico food, where to get fast food? The target audience are foreign tourists.
+Thus, the goal I want to reach with this exercise is to give a simple recommendation to tourists in WA. In which county of the state will you find a large number or even concentration of which types of restaurants? Where to eat seafood, where to find Mexico food, where to get fast food? The target audience are foreign tourists.
 
 #### Description of the data
 I will, as requested by the assignment task, use foursquare data about restaurants in WA. Foursquare is a US tech company from New York focusing on location data. Their technology and data powers apps such as Apple's Maps, Uber, Twitter and many other household names. I will use foursquare data such as the restaurant name, ID, location and category of food.
