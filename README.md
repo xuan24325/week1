@@ -23,13 +23,13 @@ Then, I enabled geopy functions. I used the nominatim function to add geospatial
 
 Using the folium package and my data frame, I then created a map with counties on it.
 
-Now, foursquare data comes into play. I first did a view try-outs for the district "Innenstadt", which I know pretty well, to see if the venues retrieved from foursquare seem reasonable and correct. That was the case.
+Now, foursquare data comes into play. I first did a view try-outs for the County "Pierce", which I know pretty well, to see if the venues retrieved from foursquare seem reasonable and correct. That was the case.
 
 Then, retrieved the foursquare data for all venues on foursquare with a distance of less than 3000 meters from each center of each county, as indicated as blue dots in the map above. The result was a list of 217 venues all over WA. Out of these 217 venues, 14 unique categories of restaurants.
 
 I plotted a bar chart with the frequency of the 10 most frequently occuring restaurants, using seaborn/matplotlib packages. We can see that American, seafood and Mexican restaurants are the most frequently occuring restaurants in WA, which seems pretty reasonable, as Washington State is a coastal area.
 
-To find clusters of restaurant types in the different city districts, I first transformed the data frame with the restaurant venues, associated to city districts, by one-hot encoding (0/1).
+To find clusters of restaurant types in the different city districts, I first transformed the data frame with the restaurant venues, associated to city districts, by one-hot encoding.
 Next, I used grouping to show the frequency of each category of restaurants in each city district.
 I used this information to create a data frame in which you can see the most common restaurant venue types for each county district.
 
